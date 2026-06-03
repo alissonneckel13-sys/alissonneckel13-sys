@@ -21,8 +21,8 @@ Analista de Qualidade focado em processos, melhoria contínua e documentação t
 ### 📈 Minhas Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[Alissonneckel13]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Alissonneckel13]&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
 ---
