@@ -7,17 +7,15 @@ Analista de Qualidade focado em processos, melhoria contínua e documentação t
 ### 🛠️ Competências & Ferramentas
 
 **Qualidade e Processos:**
+* 📊 **Gestão da Qualidade & Melhoria Contínua:** Auditoria de processos industriais, controle dimensional e garantia de padrões de conformidade.
+* 📝 **Relatórios Técnicos:** Análise de causa raiz, tratamento de desvios e abertura de Relatórios de Não-Conformidade (RNC) para fornecedores.
+* 💡 **Treinamento e Padronização:** Instrução técnica de equipes operacionais para padronização de processos de fabricação e montagem.
 
-* 📊 Gestão da Qualidade & Melhoria Contínua
-* 📝 Relatórios Técnicos (Não-Conformidades e Análise de Causa Raiz)
-* 💡 Treinamento de Equipes e Padronização
-
-**Tecnologia, Programação & QA (Em Aprendizado/Prática):**
-
-* 💻 **Desenvolvimento de Software:** Lógica de Programação, Estrutura de Dados e Manipulação de Objetos/Arrays com **JavaScript**.
-* ⚙️ **Criação de Soluções:** Construção de lógicas de backend, regras de negócio automatizadas e tratamento de erros.
-* 🐛 **Garantia de Qualidade:** Testes manuais, exploratórios, mapeamento de cenários com BDD e relatórios de bugs.
-* 🛠️ **Versionamento:** Git e GitHub para controle de versão e organização de portfólio.
+**Tecnologia, Programação & QA (Em Prática e Evolução):**
+* 💻 **Desenvolvimento de Software:** Criação de aplicações do zero utilizando **JavaScript** no ambiente **VS Code**, com domínio de lógica de programação, estruturas de dados e manipulação de objetos e arrays.
+* ⚙️ **Criação de Soluções Backend:** Arquitetura de regras de negócio automatizadas, cálculo de desvios, tratamento rigoroso de erros e persistência de dados em memória.
+* 🐛 **Garantia de Qualidade (QA):** Testes manuais e exploratórios, mapeamento de cenários com a metodologia BDD (Dado/Quando/Então) e estruturação formal de Relatórios de Bugs.
+* 🛠️ **Ferramentas e Ferramental Técnico:** Git, GitHub para controle de versão, uso de terminal/CLI para execução de scripts e ferramentas de automação/identificação (como LightBurn).
 
 
 ### 🌐 Conecte-se comigo
