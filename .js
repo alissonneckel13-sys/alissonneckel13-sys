@@ -1,40 +1,38 @@
 /**
- * SISTEMA DE VALIDAÇÃO DE ENTRADAS E STATUS (EXEMPLO DE LÓGICA E TESTES)
- * Objetivo: Analisar se os dados informados são válidos e automatizar a tomada de decisão.
+ * SISTEMA DE INSPEÇÃO DE QUALIDADE E ANÁLISE DE DESVIOS
+ * Objetivo: Validar parâmetros técnicos e automatizar a identificação de não-conformidades.
  */
 
-// 1. Função que simula a validação de um indicador ou entrada de sistema
-function avaliarStatusItem(valorMedido, limiteMaximo) {
-    // Cenário de Teste 1: Validação de tipo de dado (Segurança do sistema)
+function inspecionarParametro(valorMedido, limiteMaximo, nomeParametro) {
+    // Cenário de Teste 1: Validação de Segurança (Dados inválidos)
     if (typeof valorMedido !== 'number' || typeof limiteMaximo !== 'number') {
-        return "ERRO: As entradas devem ser valores numéricos.";
+        return `ERRO [${nomeParametro}]: Entrada inválida. Ambas as medições precisam ser numéricas.`;
     }
 
-    // Cenário de Teste 2: Valor acima do esperado (Gera alerta de desvio)
+    // Cenário de Teste 2: Identificação de Desvio (Fora do padrão)
     if (valorMedido > limiteMaximo) {
-        return `ALERTA: Valor medido (${valorMedido}) está ACIMA do limite máximo permitido (${limiteMaximo}).`;
+        return `ALERTA DE NÃO-CONFORMIDADE [${nomeParametro}]: O valor medido (${valorMedido}) ultrapassou o limite máximo permitido (${limiteMaximo}).`;
     }
 
-    // Cenário de Teste 3: Valor dentro do esperado (Conforme)
-    return `SUCESSO: Valor medido (${valorMedido}) está dentro do padrão (Limite: ${limiteMaximo}).`;
+    // Cenário de Teste 3: Processo Conforme (Sucesso)
+    return `SUCESSO [${nomeParametro}]: Medição de ${valorMedido} está totalmente dentro dos padrões estabelecidos.`;
 }
 
 // ==========================================
-// EXECUÇÃO DOS CENÁRIOS DE TESTE (MOCK)
+// EXECUTANDO OS CENÁRIOS DE TESTE (MOCK)
 // ==========================================
+console.log("--- INICIANDO ROTINA DE INSPEÇÃO DE QUALIDADE --- \n");
 
-console.log("--- INICIANDO EXECUTOR DE LOGICA --- \n");
+// Teste 1: Cenário com desvio técnico detectado
+let testeTemperatura = inspecionarParametro(650, 600, "Temperatura");
+console.log(testeTemperatura);
 
-// Caso 1: Testando uma situação de Sucesso (Valores normais)
-let resultado1 = avaliarStatusItem(150, 200);
-console.log("Teste 1 (Dentro do limite):", resultado1);
+// Teste 2: Cenário totalmente aprovado e conforme
+let testeDimensao = inspecionarParametro(45, 50, "Dimensional Pino");
+console.log(testeDimensao);
 
-// Caso 2: Testando uma situação de Alerta (Desvio/Não-conformidade)
-let resultado2 = avaliarStatusItem(250, 200);
-console.log("Teste 2 (Acima do limite):", resultado2);
+// Teste 3: Cenário de erro de digitação no sistema (Tratamento de exceção)
+let testeFalhaDados = inspecionarParametro("quarenta", 50, "Dimensional Eixo");
+console.log(testeFalhaDados);
 
-// Caso 3: Testando a resiliência do código (Entrada de dados inválida por erro do usuário)
-let resultado3 = avaliarStatusItem("duzentos", 200);
-console.log("Teste 3 (Tratamento de erro):", resultado3);
-
-console.log("\n--- EXECUÇÃO CONCLUÍDA COM SUCESSO ---");
+console.log("\n--- INSPEÇÃO FINALIZADA ---");
