@@ -1,6 +1,6 @@
 # Olá, eu sou o Alisson Neckel! 👋
 
-Analista de Qualidade focado em processos, melhoria contínua e documentação técnica. Atualmente, expando minhas fronteiras profissionais estudando **Lógica de Programação** e atuando na prática com **Testes de Software**. Conecto meu olhar analítico e rigoroso do setor industrial ao desenvolvimento e garantia de qualidade de soluções digitais.
+Analista de Qualidade focado em processos, melhoria contínua e documentação técnica. Atualmente, expando minhas fronteiras profissionais através do desenvolvimento de softwares com Lógica de Programação e atuando na prática com Testes de Software. Conecto meu olhar analítico e rigoroso do setor industrial diretamente à criação, arquitetura e garantia de qualidade de soluções digitais.
 
 ---
 
