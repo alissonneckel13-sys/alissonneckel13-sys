@@ -1,6 +1,6 @@
 # Olá, eu sou o Alisson Neckel! 👋
 
-Analista de Qualidade focado em processos, melhoria contínua e documentação técnica. Atualmente, expando minhas fronteiras profissionais criando e desenvolvendo softwares do zero com JavaScript, além de atuar na prática com Testes de Software. Conecto meu olhar analítico e rigoroso do setor industrial diretamente à construção de código, arquitetura de sistemas e garantia de qualidade de soluções digitais.
+Analista de Qualidade focado em processos, melhoria contínua e documentação técnica. Atualmente, expando minhas fronteiras profissionais criando e desenvolvendo softwares do zero através do VS Code utilizando JavaScript, além de atuar na prática com Testes de Software. Conecto meu olhar analítico e rigoroso do setor industrial diretamente à construção de código, arquitetura de sistemas e garantia de qualidade de soluções digitais.
 
 ---
 
