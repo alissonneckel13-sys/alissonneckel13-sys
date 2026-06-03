@@ -27,7 +27,7 @@ Analista de Qualidade focado em processos, melhoria contínua e documentação t
 
 Este repositório foi desenvolvido para consolidar meus estudos em lógica de programação utilizando JavaScript, conectando a mentalidade analítica de inspeção de processos à validação de software.
 
-## 🛠️ O que o script `validacao-parametros.js` realiza:
+## 🛠️ O que o script `.js` realiza:
 * **Estruturas Condicionais (`if / else`):** Utilizadas para tomar decisões automatizadas com base em tolerâncias técnicas.
 * **Tratamento de Erros (`typeof`):** Garante a resiliência do sistema impedindo que dados de texto quebrem os cálculos matemáticos de medição.
 * **Cenários de Teste Mapeados:** O código simula intencionalmente três situações reais de um fluxo de inspeção:
