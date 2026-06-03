@@ -6,15 +6,18 @@ Analista de Qualidade focado em processos, melhoria contínua e documentação t
 
 ### 🛠️ Competências & Ferramentas
 
-**Qualidade & Processos:**
+**Qualidade e Processos:**
+
 * 📊 Gestão da Qualidade & Melhoria Contínua
 * 📝 Relatórios Técnicos (Não-Conformidades e Análise de Causa Raiz)
 * 💡 Treinamento de Equipes e Padronização
 
-**Tecnologia & Programação (Em Aprendizado/Prática):**
-* 💻 Lógica de Programação & Estrutura de Dados
-* 🐛 Testes Manuais, Exploratórios e Reporte de Bugs
-* 🛠️ Git & GitHub para Controle de Versão
+**Tecnologia, Programação & QA (Em Aprendizado/Prática):**
+
+* 💻 **Desenvolvimento de Software:** Lógica de Programação, Estrutura de Dados e Manipulação de Objetos/Arrays com **JavaScript**.
+* ⚙️ **Criação de Soluções:** Construção de lógicas de backend, regras de negócio automatizadas e tratamento de erros.
+* 🐛 **Garantia de Qualidade:** Testes manuais, exploratórios, mapeamento de cenários com BDD e relatórios de bugs.
+* 🛠️ **Versionamento:** Git e GitHub para controle de versão e organização de portfólio.
 
 
 ### 🌐 Conecte-se comigo
