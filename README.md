@@ -34,3 +34,16 @@ Este repositório foi desenvolvido para consolidar meus estudos em lógica de pr
   1. **Falha/Desvio:** Quando o limite é estourado.
   2. **Conformidade:** Quando o produto é aprovado.
   3. **Input Inválido:** Simulando um erro operacional de digitação no sistema.
+ 
+ # 📚 Meus Estudos de Lógica de Programação
+
+Este repositório foi criado para armazenar e documentar meus primeiros passos no aprendizado de lógica de programação utilizando **JavaScript**. O foco aqui é fixar conceitos estruturais básicos da escrita de códigos.
+
+## 📁 Estrutura dos Arquivos e Conceitos Aplicados:
+
+* 📄 **`calculo-custos.js`**: Aplicação de variáveis, constantes, operadores aritméticos e condicionais (`if`, `else if`, `else`) para tomadas de decisão baseadas em números.
+* 📄 **`contador-loops.js`**: Prática com laços de repetição (`for loop`), compreendendo como automatizar tarefas iterativas e contagens de forma lógica.
+* 📄 **`validacao-simples.js`**: Construção de funções, passagem de parâmetros e tratamento básico de erros com verificadores de tipo (`typeof`).
+
+## 🚀 Como testar esses códigos:
+Atualmente utilizo consoles e editores de código (como o VS Code ou ambientes Web como PlayCode) para executar e validar as saídas de cada script pelo terminal.
