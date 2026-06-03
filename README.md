@@ -47,3 +47,16 @@ Este repositório foi criado para armazenar e documentar meus primeiros passos n
 
 ## 🚀 Como testar esses códigos:
 Atualmente utilizo consoles e editores de código (como o VS Code ou ambientes Web como PlayCode) para executar e validar as saídas de cada script pelo terminal.
+
+
+# 🐛 Práticas e Processos de Testes (QA)
+
+Este repositório foi criado para documentar e demonstrar minha linha de raciocínio, metodologias e práticas aplicadas à Garantia de Qualidade de Software (QA). Aqui foco em estruturar testes manuais, exploratórios e escrita técnica de relatórios.
+
+## 🛠️ Competências Demonstradas neste Repositório:
+
+* 📄 **`cenarios-de-teste.md`**: Escrita de cenários de teste utilizando a estrutura e mentalidade BDD (*Behavior-Driven Development* - Dado/Quando/Então), mapeando caminhos felizes e tratativas de exceção.
+* 📄 **`relatorio-de-bugs.md`**: Estruturação formal de relatórios de falhas (Bug Reports), aplicando clareza técnica, passos para reprodução do erro e análise de resultados esperados versus atuais.
+
+## 💡 Diferencial Analítico
+A aplicação destes conceitos reflete uma sólida transição da mentalidade de inspeção de processos, auditoria e análise de causa raiz para o ecossistema de produtos digitais, garantindo que os critérios de aceitação e a experiência do usuário final sejam plenamente atendidos.
