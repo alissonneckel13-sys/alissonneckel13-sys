@@ -8,7 +8,7 @@ Analista de Qualidade focado em processos, melhoria contínua e documentação t
 
 **Qualidade e Processos:**
 * 📊 **Gestão da Qualidade & Melhoria Contínua:** Auditoria de processos industriais, controle dimensional e garantia de padrões de conformidade.
-* 📝 **Relatórios Técnicos:** Análise de causa raiz, tratamento de desvios e abertura de Relatórios de Não-Conformidade (RNC) para fornecedores.
+* 📝 **Relatórios Técnicos:** Análise de causa raiz, tratamento de desvios e abertura de Relatórios de Não-Conformidade (TNC) para fornecedores.
 * 💡 **Treinamento e Padronização:** Instrução técnica de equipes operacionais para padronização de processos de fabricação e montagem.
 
 **Tecnologia, Programação & QA (Em Prática e Evolução):**
